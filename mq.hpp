@@ -5,6 +5,7 @@
 #include <queue>
 #include <memory>
 
+// test
 namespace mq {
 	struct message_base
 	{	
